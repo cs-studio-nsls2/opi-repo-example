@@ -1,0 +1,26 @@
+NAME			HD				4K
+
+LStitle XL		36 sans			
+LStitle			26 sans			
+
+LSbody_XXXL		20 sans			
+LSbody_XXL		18 sans			
+LSbody_XL		16 sans			
+LSbody_L		14 sans			
+LSbody_M		12 sans			
+LSbody_S		10 sans			
+LSbody_XS		8 sans			
+
+LSmicro			6 sans			
+
+LSlabel_XXXL	20 sans B		
+LSlabel_XXL		18 sans B		
+LSlabel_XL		16 sans B		
+LSlabel_L		14 sans B		
+LSlabel_M		12 sans B		
+LSlabel_S		10 sans B		
+LSlabel_XS		8 sans B		
+
+LSmono_1		10 monospace	
+LSmono_2		8 monospace		
+LSmono_3		6 monospace		
